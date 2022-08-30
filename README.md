@@ -4,7 +4,7 @@
 - 🔭 I'm currently looking for a job
 - 🌱 I'm currently learning JavaScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luan-lemos-116201208/)
-- 🤓 Fun fact: I play video-games since I was 2 years old. LOL
+- 🤓 Fun fact: I play video-games since I was 3 years old. LOL
 
 <div align="center">
   <a href="https://github.com/LuanLemos">
