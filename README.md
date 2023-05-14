@@ -3,7 +3,7 @@
 - 🎂 I'm 22 years old
 - 🔭 I'm currently learning JavaScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luan-lemos-116201208/)
-- 🤓 Fun fact: I play video-games since I was 3 years old. LOL
+- 🤓 Fun fact: I play video-games since I was 3 years old.
 
 <div align="center">
   <a href="https://github.com/LuanLemos">
